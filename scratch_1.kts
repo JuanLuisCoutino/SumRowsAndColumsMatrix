@@ -26,3 +26,5 @@ for(j in 0 until col){
     }
     println("La fila ${j+1} se suma asi = $sumCol ")
 }
+
+//Programmed by Juan Luis Coutino Lopez
